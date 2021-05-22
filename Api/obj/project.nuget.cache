@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "g68SHwte7frdG1/HzQkX1mvmJgOtzEp1j3/Z5xb1nZXNauwnSmrcIBnxTXyYn0eWaWRd2X1etkvYT6YT2qyP+A==",
+  "success": true,
+  "projectFilePath": "/home/bumbumeq/Desktop/Portfolio/youtube-service/Api/Api.csproj",
+  "expectedPackageFiles": [
+    "/home/bumbumeq/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/bumbumeq/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/bumbumeq/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/bumbumeq/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/bumbumeq/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/bumbumeq/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
